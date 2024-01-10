@@ -1,0 +1,1 @@
+Repository to hold the code written while working on the book Test-Driven Development with Python, 3rd edition, by Harry J.W. Percival (O'Reilly), available at obeythetestinggoat.com website.
